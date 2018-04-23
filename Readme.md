@@ -1,0 +1,13 @@
+# How to warn a user if the newly inserted row is filtered out
+
+
+<p>This example demonstrates how to check whether a new data row fits the current filter of the XtraGrid control. If the new row doesn't fit the active filter, a message box is displayed to the end-user. Please note that this approach is not applicable to the grid in <a href="http://documentation.devexpress.com/#WindowsForms/CustomDocument2990">Server Mode</a>.</p>
+
+
+<h3>Description</h3>
+
+<p>This example demonstrates how to check whether a new data row fits the current filter of the XtraGrid control. If the new row doesn&#39;t fit the active filter, a message box is displayed to the end-user. Please note that this approach is not applicable to the grid in <a href="http://documentation.devexpress.com/#WindowsForms/CustomDocument2990">Server Mode</a>.</p>
+
+<br/>
+
+
